@@ -1,10 +1,10 @@
 +++
-categories = [""]
+categories = []
 date = "2018-04-11T19:57:35+00:00"
-description = ""
+description = "tetst"
 draft = true
 images = []
-intro = ""
+intro = "test"
 lego = []
 metaTitle = ""
 tags = ["", ""]
