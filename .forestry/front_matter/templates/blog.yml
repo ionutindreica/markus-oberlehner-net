@@ -59,3 +59,7 @@ fields:
   type: boolean
   hidden: false
   default: true
+- type: file
+  name: image
+  label: image
+  hidden: false
